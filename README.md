@@ -15,7 +15,7 @@ Test your memory and reflexes with this classic *Simon Says game*! Click the col
 4. Try to beat your high score!
 
 ## Live Demo
-[Play the Game Here](https://YOUR_USERNAME.github.io/simon-says/)
+[Play the Game Here]https://scintillating-dango-f90918.netlify.app/
 
 ## Technologies
 - HTML
